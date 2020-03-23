@@ -1,0 +1,56 @@
+.content{
+    width: 700px;
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+header{
+    padding-bottom: 30px;
+}
+.title{
+    font-size: xx-large;
+    font-style: italic;
+}
+.subtitle{
+    font-size: medium;
+    color: gray;
+}
+.menu p{
+    float: left;
+    font-size: gray;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.latest_post{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.latest_post img{
+    width: 100%;
+}
+.latest_post p{
+    padding-top: 50px;
+    font-size: x-large;
+    color: gray;
+}
+.post_list .post{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.post_list .post .post_date{
+    color: gray; 
+    font-size: medium;
+}
+.post_list .post .post_title{
+    font-size: x-large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.post .post_detail{
+    color: gray; 
+    font-size: medium;
+}
+.writer img{
+    width: 100px;
+    height: 100px;
+}
